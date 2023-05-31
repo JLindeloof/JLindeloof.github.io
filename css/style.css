@@ -1,0 +1,39 @@
+@font-face {
+    font-family: Cuprum;
+    src: url(../fonts/Montserrat-Regular.ttf) format("truetype")
+}
+
+
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: Cuprum;
+    background-color: #fff;
+    background-size: 100%;
+    scroll-behavior: smooth
+}
+
+b{
+    color: rgb(255, 85, 0);
+}
+
+.bold1{
+    font-weight: bold;
+}
+
+.bold2{
+    font-weight: bold;
+}
+
+.pas-time{
+    margin-top: -60px;
+}
+
+span{
+    color: orange;
+}
+
+body{
+    background-image: url(/img/background-main.png);
+}
